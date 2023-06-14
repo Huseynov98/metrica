@@ -1,0 +1,49 @@
+.about__text {
+   margin-bottom: 27px;
+   max-width: 1051px;
+   font-size: 45px;
+   line-height: 61.47px;
+   letter-spacing: -0.028em;
+}
+
+.about__click {
+   margin-bottom: 150px;
+   display: inline-block;
+   width: 255px;
+   height: 67;
+   text-align: center;
+   text-decoration: none;
+   font-size: 20px;
+   line-height: 67px ;
+   background-color: #AD1818;
+   color: #FFFFFF;
+   border-radius: 5px;
+}
+
+@media (max-width: 1199px) {
+   .about__text {
+      max-width: 690px;
+      margin-bottom: 30px;
+      font-size: 35px;
+      line-height: 48px;
+   }
+   .about__click {
+      margin-bottom: 120px;
+   }
+}
+
+@media (max-width: 767px) {
+   .about__text {
+      max-width: 346px;
+      margin-bottom: 30px;
+      font-size: 22px;
+      line-height: 30px;
+   }
+   .about__click {
+      width: 100%;
+      height: 51px;
+      margin-bottom: 80px;
+      font-size: 16px;
+      line-height: 51px;
+   }
+}
