@@ -1,2 +1,1 @@
-# metrica
-<h1>Metrika Studio Design</h1>
+<h1>Studio Design Metrika</h1>
