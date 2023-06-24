@@ -9,10 +9,6 @@
   align-items: center;
   align-content: center;
 }
-.header__container {
-  display: flex;
-  justify-content: space-between;
-}
 .nav__list {
   display: flex;
   align-items: center;
